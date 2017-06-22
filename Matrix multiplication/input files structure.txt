@@ -1,0 +1,15 @@
+1- mat1Rows
+
+2- mat1Col
+
+3- mat2Row
+
+4- mat2Col
+
+5- Mat1
+
+6- Mat2
+
+
+
+
